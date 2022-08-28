@@ -8,12 +8,12 @@
 
 ### Analysis of Outcomes Based on Launch Date:
 
-[https://github.com/DartElina/kickstarter-analysis/blob/f3c555c36fedc72f1f45426482cf7dcfdf5b1509/Resources%20(Ch1)/Outcomes_vs_Goals.png]
+![image](https://github.com/DartElina/kickstarter-analysis/blob/f3c555c36fedc72f1f45426482cf7dcfdf5b1509/Resources%20(Ch1)/Outcomes_vs_Goals.png)
 
 Using the data provided we filtered for theater campaigns and created a visual that allows us to see the frequency of successes and failures based on Launch dates. As you can see May and June have the highest number of successful campaigns. Additionally, May has the highest number of failed campaigns as well. It is possible that the increased number of successful campaigns is the result of more campaigns launched in May and June overall, not just because these month resulted in more success. 
 
 ### Analysis of Outcomes Based on Goals:
-[https://github.com/DartElina/kickstarter-analysis/blob/f3c555c36fedc72f1f45426482cf7dcfdf5b1509/Resources%20(Ch1)/Theater_Outcomes_vs_Launch.png]
+![image](https://github.com/DartElina/kickstarter-analysis/blob/f3c555c36fedc72f1f45426482cf7dcfdf5b1509/Resources%20(Ch1)/Theater_Outcomes_vs_Launch.png)
 
   Using the data from kickstarter we filtered for subcategory plays, sorted campaigns by goal values, and derived the percent of campaign successes, failures and cancels. This allows us to compare the rate of success and failure by goal values. As you can see nearly 80% of goals below $100 succeed, and successes remain above failures until about $20,000 goals at which point there is a 50% of success or failure. There is a bump up in success rates after $30,000 until $50,000, however, the data provided can not explain why there is a bump in this range. Perhaps promotion budgets could be a variable at play here, which could play a role in increasing the number of backers. Again, this could be better concluded with more data.  
 
